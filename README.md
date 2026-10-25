@@ -1,5 +1,11 @@
 # simplysmart
 
+> **Repozytorium zarchiwizowane.** Po wersji 0.3.0 rdzeń jest częścią paczki
+> [`simplysmart/admiro`](https://github.com/marcinulezalka/simply-admiro) (razem ze strefą administratorów
+> i narzędziami deweloperskimi); historia tego repozytorium jest tam scalona. Zamień w `composer.json`
+> `simplysmart/mainboard` na `simplysmart/admiro`; mapę zmian nazw (namespace, komponenty, config, zmienne,
+> komendy, trasy) opisuje `CHANGELOG.md` paczki admiro.
+
 Modułowa płyta główna (mainboard) dla aplikacji simplysmart: podłączanie modułów, przestrzenie robocze do zarządzania i więcej.
 
 Paczka Composer: `simplysmart/mainboard`, namespace `Simplysmart\Mainboard\`.
